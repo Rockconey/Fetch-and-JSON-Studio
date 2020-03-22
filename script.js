@@ -32,7 +32,7 @@ window.addEventListener("load", function () {
                 }
         }
                 
-               
+               //With much thanks to Andy Yang for helping me connect the dots.
                 
                     //Problem solving: If I append the div I get one astronaut. If I append text, I get one astronaut, and then literally all the innerHTML for the other
                     // astronauts. if I append the astroArr then I get one in the appropriate format, and get [object Object] appended after.
